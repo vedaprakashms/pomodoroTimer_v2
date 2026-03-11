@@ -123,7 +123,7 @@
     </sheet>
     <sheet number="4" name="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/">
       <title_block>
-        <title/>
+        <title>CH552 MCU</title>
         <company/>
         <rev/>
         <date/>
@@ -141,7 +141,7 @@
     </sheet>
     <sheet number="5" name="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/">
       <title_block>
-        <title/>
+        <title>WS2812B RGB LED</title>
         <company/>
         <rev/>
         <date/>
@@ -159,7 +159,7 @@
     </sheet>
     <sheet number="6" name="/Project Architecture/USB/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/73fee0d4-af19-4985-acb8-2f1fca14b77f/">
       <title_block>
-        <title/>
+        <title>USB Power and Data</title>
         <company/>
         <rev/>
         <date/>
@@ -835,18 +835,18 @@
       <node ref="U1" pin="15" pinfunction="VCC/VDD" pintype="power_in"/>
       <node ref="USB1" pin="1" pinfunction="VBUS" pintype="power_out"/>
     </net>
-    <net code="3" name="/Project Architecture/CH552G/D-" class="Default">
-      <node ref="U1" pin="12" pinfunction="P3.6/UDP" pintype="bidirectional"/>
-      <node ref="USB1" pin="2" pinfunction="D-" pintype="input"/>
-    </net>
-    <net code="4" name="/Project Architecture/CH552G/Din" class="Default">
-      <node ref="LED1" pin="4" pinfunction="DIN" pintype="bidirectional"/>
-      <node ref="U1" pin="8" pinfunction="P3.0/PWM1_/RXD" pintype="bidirectional"/>
-    </net>
-    <net code="5" name="D+" class="Default">
+    <net code="3" name="/Project Architecture/CH552G/D+" class="Default">
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="U1" pin="13" pinfunction="P3.7/UDM" pintype="bidirectional"/>
       <node ref="USB1" pin="3" pinfunction="D+" pintype="input"/>
+    </net>
+    <net code="4" name="/Project Architecture/CH552G/D-" class="Default">
+      <node ref="U1" pin="12" pinfunction="P3.6/UDP" pintype="bidirectional"/>
+      <node ref="USB1" pin="2" pinfunction="D-" pintype="input"/>
+    </net>
+    <net code="5" name="/Project Architecture/CH552G/Din" class="Default">
+      <node ref="LED1" pin="4" pinfunction="DIN" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="P3.0/PWM1_/RXD" pintype="bidirectional"/>
     </net>
     <net code="6" name="GND" class="Default">
       <node ref="C1" pin="2" pintype="passive"/>
