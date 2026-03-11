@@ -2,11 +2,11 @@
   <img alt="Logo" width="33%" src="Logos/dummy_logo.svg">
 </p>
 
-<h1 align="center">Board Name</h1>
+<h1 align="center">PoMoDoRo Timer v2</h1>
 
 <p align="center" width="100%">
-  <a href="/actions/workflows/ci.yaml">
-    <img alt="CI Badge" src="/actions/workflows/ci.yaml/badge.svg?branch=">
+  <a href="https://github.com/vedaprakashms/pomodoroTimer_v2/actions/workflows/ci.yaml">
+    <img alt="CI Badge" src="https://github.com/vedaprakashms/pomodoroTimer_v2/actions/workflows/ci.yaml/badge.svg?branch=">
   </a>
 </p>
 

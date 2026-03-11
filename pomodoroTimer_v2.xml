@@ -61,7 +61,7 @@
     <textvar name="SHEET_NAME_39">......................................</textvar>
     <textvar name="SHEET_NAME_4">CH552G</textvar>
     <textvar name="SHEET_NAME_40">......................................</textvar>
-    <textvar name="SHEET_NAME_5">ws2128S</textvar>
+    <textvar name="SHEET_NAME_5">WS2812B</textvar>
     <textvar name="SHEET_NAME_6">USB</textvar>
     <textvar name="SHEET_NAME_7">Power - Sequencing</textvar>
     <textvar name="SHEET_NAME_8">Revision History</textvar>
@@ -139,7 +139,7 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="5" name="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/">
+    <sheet number="5" name="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/">
       <title_block>
         <title/>
         <company/>
@@ -451,11 +451,11 @@
         <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetname" value="WS2812B"/>
       <property name="Sheetfile" value="ws2128S.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
-      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <sheetpath names="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
       <tstamps>f787128e-11da-43d6-b5d5-aec0081fc9c1</tstamps>
     </comp>
     <comp ref="C5">
@@ -469,11 +469,11 @@
         <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetname" value="WS2812B"/>
       <property name="Sheetfile" value="ws2128S.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
-      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <sheetpath names="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
       <tstamps>e36b028d-f535-431f-874b-3068ba3be5a6</tstamps>
     </comp>
     <comp ref="C6">
@@ -487,11 +487,11 @@
         <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetname" value="WS2812B"/>
       <property name="Sheetfile" value="ws2128S.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
-      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <sheetpath names="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
       <tstamps>d772d7c4-791c-4695-b1c7-f7b292b9c011</tstamps>
     </comp>
     <comp ref="C7">
@@ -505,11 +505,11 @@
         <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetname" value="WS2812B"/>
       <property name="Sheetfile" value="ws2128S.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
-      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <sheetpath names="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
       <tstamps>a79fe0e5-46cd-4de3-8806-8ef41616c18e</tstamps>
     </comp>
     <comp ref="C8">
@@ -523,11 +523,11 @@
         <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetname" value="WS2812B"/>
       <property name="Sheetfile" value="ws2128S.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
-      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <sheetpath names="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
       <tstamps>b9f2c4f8-d9bc-4ad2-904d-4b892ef9d93b</tstamps>
     </comp>
     <comp ref="C9">
@@ -541,11 +541,11 @@
         <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetname" value="WS2812B"/>
       <property name="Sheetfile" value="ws2128S.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
-      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <sheetpath names="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
       <tstamps>8993fd41-ae2d-40ff-8419-576ab764c61c</tstamps>
     </comp>
     <comp ref="LED1">
@@ -559,9 +559,9 @@
       </fields>
       <libsource lib="mylib" part="WS2812B-V5_C2846931" description=""/>
       <property name="LCSC Part" value="C2846931"/>
-      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetname" value="WS2812B"/>
       <property name="Sheetfile" value="ws2128S.kicad_sch"/>
-      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <sheetpath names="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
       <tstamps>c555dd64-2274-4bfe-9e55-503a5ca0c161</tstamps>
     </comp>
     <comp ref="LED2">
@@ -575,9 +575,9 @@
       </fields>
       <libsource lib="mylib" part="WS2812B-V5_C2846931" description=""/>
       <property name="LCSC Part" value="C2846931"/>
-      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetname" value="WS2812B"/>
       <property name="Sheetfile" value="ws2128S.kicad_sch"/>
-      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <sheetpath names="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
       <tstamps>63894b67-0033-44e0-9cae-937a8daeccd5</tstamps>
     </comp>
     <comp ref="LED3">
@@ -591,9 +591,9 @@
       </fields>
       <libsource lib="mylib" part="WS2812B-V5_C2846931" description=""/>
       <property name="LCSC Part" value="C2846931"/>
-      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetname" value="WS2812B"/>
       <property name="Sheetfile" value="ws2128S.kicad_sch"/>
-      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <sheetpath names="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
       <tstamps>bd935c00-d0d7-430d-b582-3ca27fb01bb1</tstamps>
     </comp>
     <comp ref="LED4">
@@ -607,9 +607,9 @@
       </fields>
       <libsource lib="mylib" part="WS2812B-V5_C2846931" description=""/>
       <property name="LCSC Part" value="C2846931"/>
-      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetname" value="WS2812B"/>
       <property name="Sheetfile" value="ws2128S.kicad_sch"/>
-      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <sheetpath names="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
       <tstamps>bbac293c-9254-46b8-8ed0-ba0b82260068</tstamps>
     </comp>
     <comp ref="LED5">
@@ -623,9 +623,9 @@
       </fields>
       <libsource lib="mylib" part="WS2812B-V5_C2846931" description=""/>
       <property name="LCSC Part" value="C2846931"/>
-      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetname" value="WS2812B"/>
       <property name="Sheetfile" value="ws2128S.kicad_sch"/>
-      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <sheetpath names="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
       <tstamps>21bfae8c-a3ed-4488-8d1a-efad81997184</tstamps>
     </comp>
     <comp ref="LED6">
@@ -639,9 +639,9 @@
       </fields>
       <libsource lib="mylib" part="WS2812B-V5_C2846931" description=""/>
       <property name="LCSC Part" value="C2846931"/>
-      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetname" value="WS2812B"/>
       <property name="Sheetfile" value="ws2128S.kicad_sch"/>
-      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <sheetpath names="/Project Architecture/WS2812B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
       <tstamps>11c51c52-3458-43f6-acf7-ba93851cf286</tstamps>
     </comp>
     <comp ref="USB1">
