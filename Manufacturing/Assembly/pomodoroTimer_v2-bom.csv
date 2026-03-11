@@ -1,0 +1,8 @@
+Row,Quantity Per PCB,References,Value,Datasheet,Footprint,Description,Manufacturer,Manufacturer Part Number,Supplier Part Number
+1,8,C1 C2 C4 C5 C6 C7 C8 C9,0.1u,~,C_0603_1608Metric,Unpolarized capacitor,,,
+2,1,C3,10u,~,C_0805_2012Metric,Unpolarized capacitor,,,
+3,6,LED1 LED2 LED3 LED4 LED5 LED6,WS2812B-V5_C2846931,,LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1,,,,
+4,1,R1,10K,~,R_0603_1608Metric,Resistor,,,
+5,6,SW1 SW2 SW3 SW4 SW5 SW6,SW_SPST,~,SW_SPST_CK_RS282G05A3,Single Pole Single Throw (SPST) switch,,,
+6,1,U1,CH552G,https://lcsc.com/product-detail/USB_CH552G_C111292.html,SOP-16_L10.0-W3.9-P1.27-LS6.0-BL,,,,
+7,1,USB1,MICRO QTZB5.0,https://lcsc.com/product-detail/USB-Connectors_SHOU-HAN-MICRO-QTZB5-0_C2681556.html,MICRO-USB-SMD_MICRO-QTZB5.0,,,,
