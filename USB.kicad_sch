@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "70bd5dc0-88e6-4028-ac1e-b719816224d2")
 	(paper "A4")
+	(title_block
+		(title "USB Power and Data")
+	)
 	(lib_symbols
 		(symbol "mylib:MICROQTZB5.0"
 			(exclude_from_sim no)

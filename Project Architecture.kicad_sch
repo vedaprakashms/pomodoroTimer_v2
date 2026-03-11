@@ -36,37 +36,37 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 99.06) (xy 177.8 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b93aa0a5-963f-4e4c-bb9c-cec4a3f271a6")
+	)
+	(wire
+		(pts
+			(xy 152.4 107.95) (xy 177.8 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb1fcd93-4a93-4314-a453-cb53f0990677")
+	)
+	(wire
+		(pts
 			(xy 255.27 111.76) (xy 279.4 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "15214926-0a94-434f-9a3f-0a3da007ef74")
-	)
-	(wire
-		(pts
-			(xy 152.654 99.06) (xy 178.054 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae905e7b-dff4-49b4-bec2-d0982f6df87a")
-	)
-	(wire
-		(pts
-			(xy 152.654 107.95) (xy 178.054 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df57c515-491f-4fd8-8363-edccf1202290")
+		(uuid "fa9c9a80-8e3a-4b3c-9973-708ea5e5dfcd")
 	)
 	(sheet
-		(at 178.054 76.2)
-		(size 77.216 76.2)
+		(at 177.8 76.2)
+		(size 77.47 76.2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -82,7 +82,7 @@
 		)
 		(uuid "58511cc5-5c06-4f3c-b8e0-bfade3192abf")
 		(property "Sheetname" "CH552G"
-			(at 178.054 75.0646 0)
+			(at 177.8 75.0646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -91,7 +91,7 @@
 			)
 		)
 		(property "Sheetfile" "CH552G.kicad_sch"
-			(at 178.054 153.4084 0)
+			(at 177.8 153.4084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -100,7 +100,7 @@
 			)
 		)
 		(pin "D+" input
-			(at 178.054 99.06 180)
+			(at 177.8 99.06 180)
 			(uuid "2f8a0a94-b987-4a74-aa89-312486ff5d88")
 			(effects
 				(font
@@ -110,7 +110,7 @@
 			)
 		)
 		(pin "D-" input
-			(at 178.054 107.95 180)
+			(at 177.8 107.95 180)
 			(uuid "267dc6a1-b00d-47d0-82c6-b5356d1fd993")
 			(effects
 				(font
@@ -138,8 +138,8 @@
 		)
 	)
 	(sheet
-		(at 76.2 76.454)
-		(size 76.454 75.946)
+		(at 76.2 76.2)
+		(size 76.2 76.2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -155,7 +155,7 @@
 		)
 		(uuid "73fee0d4-af19-4985-acb8-2f1fca14b77f")
 		(property "Sheetname" "USB"
-			(at 76.2 74.8186 0)
+			(at 76.2 74.5646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -164,7 +164,7 @@
 			)
 		)
 		(property "Sheetfile" "USB.kicad_sch"
-			(at 76.2 153.9084 0)
+			(at 76.2 153.6544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -173,7 +173,7 @@
 			)
 		)
 		(pin "D+" input
-			(at 152.654 99.06 0)
+			(at 152.4 99.06 0)
 			(uuid "fe67396f-1da1-499d-a8b4-0c60983de838")
 			(effects
 				(font
@@ -183,7 +183,7 @@
 			)
 		)
 		(pin "D-" input
-			(at 152.654 107.95 0)
+			(at 152.4 107.95 0)
 			(uuid "b7c5e2bf-bf77-4b8f-8106-8d21567fed18")
 			(effects
 				(font
@@ -202,7 +202,7 @@
 	)
 	(sheet
 		(at 279.4 76.2)
-		(size 76.454 75.438)
+		(size 76.2 74.93)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)

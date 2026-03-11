@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "b4a81ee7-6dfa-43b7-8951-f83990dfa55a")
 	(paper "A4")
+	(title_block
+		(title "CH552 MCU")
+	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
 			(pin_numbers
@@ -1664,28 +1667,6 @@
 			)
 		)
 	)
-	(global_label "D+"
-		(shape input)
-		(at 115.57 39.37 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3c2d5930-f901-4a8a-abe5-8bff6f0c51e1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 121.3976 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "m1"
 		(shape input)
 		(at 95.25 72.39 180)
@@ -1916,6 +1897,17 @@
 			(justify left)
 		)
 		(uuid "450ff1bc-715f-4651-b097-12c427142e3f")
+	)
+	(hierarchical_label "D+"
+		(shape input)
+		(at 115.57 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dad8a91b-87f4-47aa-8d42-533e23f2b0b4")
 	)
 	(hierarchical_label "Din"
 		(shape bidirectional)
