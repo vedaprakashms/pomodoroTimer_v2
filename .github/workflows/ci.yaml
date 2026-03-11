@@ -4,12 +4,12 @@ on:
   workflow_dispatch:
   push:
     tags:
-      - '[0-9]+.[0-9]+.[0-9]+' # Match semantic versioning tags
+      - "[0-9]+.[0-9]+.[0-9]+" # Match semantic versioning tags
     branches:
       - main
       - dev
     paths-ignore:
-      - '*.md'
+      - "*.md"
 
 env:
   kibot_config: kibot_yaml/kibot_main.yaml
@@ -24,7 +24,7 @@ env:
   kicad_version: 9
 
   kibot_log: kibot_run.log
- 
+
 permissions:
   contents: write
 
@@ -98,7 +98,7 @@ jobs:
           branch: main
           commit_message: Update CHANGELOG
           file_pattern: CHANGELOG.md
-          push_options: '--force'
+          push_options: "--force"
 
       - name: Cache 3D models data
         id: models-cache
@@ -229,7 +229,7 @@ jobs:
           fi
 
       - name: Discard changes to .kicad_pcb files and remove temp files
-        run: | 
+        run: |
           git checkout HEAD -- $(git ls-files "*.kicad_pcb")
           git clean -f "*.kicad_pcb"
           git clean -f "*.kicad_pro"
@@ -250,14 +250,14 @@ jobs:
           path: ${{ env.kibot_log }}
 
       - name: Store notes log
-        if: ${{ always() && env.kibot_variant != 'DRAFT' }} 
+        if: ${{ always() && env.kibot_variant != 'DRAFT' }}
         uses: actions/upload-artifact@v4
         with:
           name: log_file_notes
           path: kibot_run_notes.log
 
       - name: Store README log
-        if: ${{ always() && env.kibot_variant == 'DRAFT' }} 
+        if: ${{ always() && env.kibot_variant == 'DRAFT' }}
         uses: actions/upload-artifact@v4
         with:
           name: log_file_readme
