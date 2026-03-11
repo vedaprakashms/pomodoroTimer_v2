@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/pomodoroTimer_v2.kicad_sch</source>
+    <date>Date1</date>
+    <tool>Eeschema 9.0.7+1</tool>
+    <textvar name="ASSEMBLY_NOTES"/>
+    <textvar name="BOARD_NAME">PoMoDoRo Timer v2</textvar>
+    <textvar name="COMPANY">Vishwakarma Freelancer</textvar>
+    <textvar name="DESIGNER">Vedaprakash M S</textvar>
+    <textvar name="FABRICATION_NOTES"/>
+    <textvar name="GIT_HASH_PCB">ce41893</textvar>
+    <textvar name="GIT_HASH_SCH">5754637</textvar>
+    <textvar name="GIT_URL">https://github.com/vedaprakashms/pomodoroTimer_v2</textvar>
+    <textvar name="PROJECT_NAME">PoMoDoRo Timer v2</textvar>
+    <textvar name="RELEASE_BODY_1.0.0"/>
+    <textvar name="RELEASE_BODY_1.0.1"/>
+    <textvar name="RELEASE_BODY_1.0.2"/>
+    <textvar name="RELEASE_BODY_1.1.0"/>
+    <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
+    <textvar name="RELEASE_DATE">11-Mar-2026</textvar>
+    <textvar name="RELEASE_DATE_NUM">2026-03-11</textvar>
+    <textvar name="RELEASE_TITLE_1.0.0"/>
+    <textvar name="RELEASE_TITLE_1.0.1"/>
+    <textvar name="RELEASE_TITLE_1.0.2"/>
+    <textvar name="RELEASE_TITLE_1.1.0"/>
+    <textvar name="RELEASE_TITLE_UNRELEASED">Version Unreleased not found.</textvar>
+    <textvar name="REVISION">+ (Unreleased)</textvar>
+    <textvar name="SHEET_NAME_1">Cover Page</textvar>
+    <textvar name="SHEET_NAME_10">......................................</textvar>
+    <textvar name="SHEET_NAME_11">......................................</textvar>
+    <textvar name="SHEET_NAME_12">......................................</textvar>
+    <textvar name="SHEET_NAME_13">......................................</textvar>
+    <textvar name="SHEET_NAME_14">......................................</textvar>
+    <textvar name="SHEET_NAME_15">......................................</textvar>
+    <textvar name="SHEET_NAME_16">......................................</textvar>
+    <textvar name="SHEET_NAME_17">......................................</textvar>
+    <textvar name="SHEET_NAME_18">......................................</textvar>
+    <textvar name="SHEET_NAME_19">......................................</textvar>
+    <textvar name="SHEET_NAME_2">Block Diagram</textvar>
+    <textvar name="SHEET_NAME_20">......................................</textvar>
+    <textvar name="SHEET_NAME_21">......................................</textvar>
+    <textvar name="SHEET_NAME_22">......................................</textvar>
+    <textvar name="SHEET_NAME_23">......................................</textvar>
+    <textvar name="SHEET_NAME_24">......................................</textvar>
+    <textvar name="SHEET_NAME_25">......................................</textvar>
+    <textvar name="SHEET_NAME_26">......................................</textvar>
+    <textvar name="SHEET_NAME_27">......................................</textvar>
+    <textvar name="SHEET_NAME_28">......................................</textvar>
+    <textvar name="SHEET_NAME_29">......................................</textvar>
+    <textvar name="SHEET_NAME_3">Project Architecture</textvar>
+    <textvar name="SHEET_NAME_30">......................................</textvar>
+    <textvar name="SHEET_NAME_31">......................................</textvar>
+    <textvar name="SHEET_NAME_32">......................................</textvar>
+    <textvar name="SHEET_NAME_33">......................................</textvar>
+    <textvar name="SHEET_NAME_34">......................................</textvar>
+    <textvar name="SHEET_NAME_35">......................................</textvar>
+    <textvar name="SHEET_NAME_36">......................................</textvar>
+    <textvar name="SHEET_NAME_37">......................................</textvar>
+    <textvar name="SHEET_NAME_38">......................................</textvar>
+    <textvar name="SHEET_NAME_39">......................................</textvar>
+    <textvar name="SHEET_NAME_4">CH552G</textvar>
+    <textvar name="SHEET_NAME_40">......................................</textvar>
+    <textvar name="SHEET_NAME_5">ws2128S</textvar>
+    <textvar name="SHEET_NAME_6">USB</textvar>
+    <textvar name="SHEET_NAME_7">Power - Sequencing</textvar>
+    <textvar name="SHEET_NAME_8">Revision History</textvar>
+    <textvar name="SHEET_NAME_9">......................................</textvar>
+    <textvar name="VARIANT">DRAFT</textvar>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company>Vishwakarma Freelancer</company>
+        <rev>+ (Unreleased)</rev>
+        <date>Date2</date>
+        <source>pomodoroTimer_v2.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Block Diagram/" tstamps="/82da9dbf-ba38-4d08-ba35-a220fa2963b1/">
+      <title_block>
+        <title>Block Diagram</title>
+        <company>Vishwakarma Freelancer</company>
+        <rev>+ (Unreleased)</rev>
+        <date>Date2</date>
+        <source>Block Diagram.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Project Architecture/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/">
+      <title_block>
+        <title>Project Architecture</title>
+        <company>Vishwakarma Freelancer</company>
+        <rev>+ (Unreleased)</rev>
+        <date>Date2</date>
+        <source>Project Architecture.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>CH552G.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ws2128S.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Project Architecture/USB/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/73fee0d4-af19-4985-acb8-2f1fca14b77f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>USB.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Power - Sequencing/" tstamps="/5fb05893-0da3-4f58-a52b-cb6d6f4cb80b/">
+      <title_block>
+        <title>Power - Sequencing</title>
+        <company>Vishwakarma Freelancer</company>
+        <rev>+ (Unreleased)</rev>
+        <date>Date2</date>
+        <source>Power - Sequencing.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Revision History/" tstamps="/6e125bd6-2f99-4e5d-b3ea-4899f4540739/">
+      <title_block>
+        <title>Revision History</title>
+        <company>Vishwakarma Freelancer</company>
+        <rev>+ (Unreleased)</rev>
+        <date>Date2</date>
+        <source>Revision History.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>48f29950-a41b-49bc-b6f4-6df742570ae8</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>f4a9202e-7b66-4f8e-aa04-ed637feead52</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>438c70d0-7618-4e53-bee4-af0f8f9e7ea9</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>3341199d-afd1-46bc-9399-6d15853dfa88</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_SPST_CK_RS282G05A3</footprint>
+      <datasheet>~</datasheet>
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <fields>
+        <field name="Footprint">Button_Switch_SMD:SW_SPST_CK_RS282G05A3</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Single Pole Single Throw (SPST) switch</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>e552ead4-5a66-41f5-a5a4-7adc09007c82</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_SPST_CK_RS282G05A3</footprint>
+      <datasheet>~</datasheet>
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <fields>
+        <field name="Footprint">Button_Switch_SMD:SW_SPST_CK_RS282G05A3</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Single Pole Single Throw (SPST) switch</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>d0ab8477-3216-468f-a00d-3d89aa561f3c</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_SPST_CK_RS282G05A3</footprint>
+      <datasheet>~</datasheet>
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <fields>
+        <field name="Footprint">Button_Switch_SMD:SW_SPST_CK_RS282G05A3</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Single Pole Single Throw (SPST) switch</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>b030b992-244a-4404-8acb-0fd1b9ad5c97</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_SPST_CK_RS282G05A3</footprint>
+      <datasheet>~</datasheet>
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <fields>
+        <field name="Footprint">Button_Switch_SMD:SW_SPST_CK_RS282G05A3</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Single Pole Single Throw (SPST) switch</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>898858e4-7dc9-4e60-bd2f-28964260d427</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_SPST_CK_RS282G05A3</footprint>
+      <datasheet>~</datasheet>
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <fields>
+        <field name="Footprint">Button_Switch_SMD:SW_SPST_CK_RS282G05A3</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Single Pole Single Throw (SPST) switch</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>10575f50-7369-4edb-adf0-821ea5bf6bdf</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_SPST_CK_RS282G05A3</footprint>
+      <datasheet>~</datasheet>
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <fields>
+        <field name="Footprint">Button_Switch_SMD:SW_SPST_CK_RS282G05A3</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Single Pole Single Throw (SPST) switch</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>5d0d1614-d230-4e46-bb3c-0c29a21a2c10</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>3v</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>c9f063b6-5cc8-4fef-877f-fd04aff35616</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>dp</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>c7fac2a9-4967-4bae-8473-2672e97a6bbb</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>CH552G</value>
+      <footprint>mylib:SOP-16_L10.0-W3.9-P1.27-LS6.0-BL</footprint>
+      <datasheet>https://lcsc.com/product-detail/USB_CH552G_C111292.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C111292</field>
+        <field name="Footprint">mylib:SOP-16_L10.0-W3.9-P1.27-LS6.0-BL</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/USB_CH552G_C111292.html</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="mylib" part="CH552G" description=""/>
+      <property name="LCSC Part" value="C111292"/>
+      <property name="Sheetname" value="CH552G"/>
+      <property name="Sheetfile" value="CH552G.kicad_sch"/>
+      <sheetpath names="/Project Architecture/CH552G/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/58511cc5-5c06-4f3c-b8e0-bfade3192abf/"/>
+      <tstamps>554539ce-86af-4326-9fa0-688328a07695</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetfile" value="ws2128S.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <tstamps>f787128e-11da-43d6-b5d5-aec0081fc9c1</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetfile" value="ws2128S.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <tstamps>e36b028d-f535-431f-874b-3068ba3be5a6</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetfile" value="ws2128S.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <tstamps>d772d7c4-791c-4695-b1c7-f7b292b9c011</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetfile" value="ws2128S.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <tstamps>a79fe0e5-46cd-4de3-8806-8ef41616c18e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetfile" value="ws2128S.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <tstamps>b9f2c4f8-d9bc-4ad2-904d-4b892ef9d93b</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetfile" value="ws2128S.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <tstamps>8993fd41-ae2d-40ff-8419-576ab764c61c</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>WS2812B-V5_C2846931</value>
+      <footprint>mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</footprint>
+      <fields>
+        <field name="LCSC Part">C2846931</field>
+        <field name="Footprint">mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="mylib" part="WS2812B-V5_C2846931" description=""/>
+      <property name="LCSC Part" value="C2846931"/>
+      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetfile" value="ws2128S.kicad_sch"/>
+      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <tstamps>c555dd64-2274-4bfe-9e55-503a5ca0c161</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>WS2812B-V5_C2846931</value>
+      <footprint>mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</footprint>
+      <fields>
+        <field name="LCSC Part">C2846931</field>
+        <field name="Footprint">mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="mylib" part="WS2812B-V5_C2846931" description=""/>
+      <property name="LCSC Part" value="C2846931"/>
+      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetfile" value="ws2128S.kicad_sch"/>
+      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <tstamps>63894b67-0033-44e0-9cae-937a8daeccd5</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>WS2812B-V5_C2846931</value>
+      <footprint>mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</footprint>
+      <fields>
+        <field name="LCSC Part">C2846931</field>
+        <field name="Footprint">mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="mylib" part="WS2812B-V5_C2846931" description=""/>
+      <property name="LCSC Part" value="C2846931"/>
+      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetfile" value="ws2128S.kicad_sch"/>
+      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <tstamps>bd935c00-d0d7-430d-b582-3ca27fb01bb1</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>WS2812B-V5_C2846931</value>
+      <footprint>mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</footprint>
+      <fields>
+        <field name="LCSC Part">C2846931</field>
+        <field name="Footprint">mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="mylib" part="WS2812B-V5_C2846931" description=""/>
+      <property name="LCSC Part" value="C2846931"/>
+      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetfile" value="ws2128S.kicad_sch"/>
+      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <tstamps>bbac293c-9254-46b8-8ed0-ba0b82260068</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>WS2812B-V5_C2846931</value>
+      <footprint>mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</footprint>
+      <fields>
+        <field name="LCSC Part">C2846931</field>
+        <field name="Footprint">mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="mylib" part="WS2812B-V5_C2846931" description=""/>
+      <property name="LCSC Part" value="C2846931"/>
+      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetfile" value="ws2128S.kicad_sch"/>
+      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <tstamps>21bfae8c-a3ed-4488-8d1a-efad81997184</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>WS2812B-V5_C2846931</value>
+      <footprint>mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</footprint>
+      <fields>
+        <field name="LCSC Part">C2846931</field>
+        <field name="Footprint">mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="mylib" part="WS2812B-V5_C2846931" description=""/>
+      <property name="LCSC Part" value="C2846931"/>
+      <property name="Sheetname" value="ws2128S"/>
+      <property name="Sheetfile" value="ws2128S.kicad_sch"/>
+      <sheetpath names="/Project Architecture/ws2128S/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/cd25055e-dee4-45e8-92df-3f47a4673864/"/>
+      <tstamps>11c51c52-3458-43f6-acf7-ba93851cf286</tstamps>
+    </comp>
+    <comp ref="USB1">
+      <value>MICRO QTZB5.0</value>
+      <footprint>mylib:MICRO-USB-SMD_MICRO-QTZB5.0</footprint>
+      <datasheet>https://lcsc.com/product-detail/USB-Connectors_SHOU-HAN-MICRO-QTZB5-0_C2681556.html</datasheet>
+      <fields>
+        <field name="LCSC Part">C2681556</field>
+        <field name="Footprint">mylib:MICRO-USB-SMD_MICRO-QTZB5.0</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/USB-Connectors_SHOU-HAN-MICRO-QTZB5-0_C2681556.html</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="mylib" part="MICROQTZB5.0" description=""/>
+      <property name="LCSC Part" value="C2681556"/>
+      <property name="Sheetname" value="USB"/>
+      <property name="Sheetfile" value="USB.kicad_sch"/>
+      <sheetpath names="/Project Architecture/USB/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/73fee0d4-af19-4985-acb8-2f1fca14b77f/"/>
+      <tstamps>61bacf8e-1de8-49c4-b3f6-7f5154f3c9ab</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">test point</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Single Pole Single Throw (SPST) switch</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mylib" part="CH552G">
+      <docs>https://lcsc.com/product-detail/USB_CH552G_C111292.html</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CH552G</field>
+        <field name="Footprint">mylib:SOP-16_L10.0-W3.9-P1.27-LS6.0-BL</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/USB_CH552G_C111292.html</field>
+        <field name="Description"/>
+        <field name="LCSC Part">C111292</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P3.2/TXD1_/INT0/VBUS1/AIN3" type="bidirectional"/>
+        <pin num="2" name="P1.4/T2_/CAP1_/SCS/TIN2/UCC1/AIN1" type="bidirectional"/>
+        <pin num="3" name="P1.5/MOSI/PWM1/TIN3/UCC2/AIN2" type="bidirectional"/>
+        <pin num="4" name="P1.6/MISO/RXD1/TIN4" type="bidirectional"/>
+        <pin num="5" name="P1.7/SCK/TXD1/TIN5" type="bidirectional"/>
+        <pin num="6" name="RST/T2EX_/CAP2_" type="bidirectional"/>
+        <pin num="7" name="P3.1/PWM2_/TXD" type="bidirectional"/>
+        <pin num="8" name="P3.0/PWM1_/RXD" type="bidirectional"/>
+        <pin num="9" name="P1.1/T2EX/CAP2/TIN1/VBUS2/AIN0" type="bidirectional"/>
+        <pin num="10" name="P3.3/INT1" type="bidirectional"/>
+        <pin num="11" name="P3.4/PWM2/RXD1_/T0" type="bidirectional"/>
+        <pin num="12" name="P3.6/UDP" type="bidirectional"/>
+        <pin num="13" name="P3.7/UDM" type="bidirectional"/>
+        <pin num="14" name="GND/VSS" type="power_in"/>
+        <pin num="15" name="VCC/VDD" type="power_in"/>
+        <pin num="16" name="V33" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="mylib" part="MICROQTZB5.0">
+      <docs>https://lcsc.com/product-detail/USB-Connectors_SHOU-HAN-MICRO-QTZB5-0_C2681556.html</docs>
+      <fields>
+        <field name="Reference">USB1</field>
+        <field name="Value">MICRO QTZB5.0</field>
+        <field name="Footprint">mylib:MICRO-USB-SMD_MICRO-QTZB5.0</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/USB-Connectors_SHOU-HAN-MICRO-QTZB5-0_C2681556.html</field>
+        <field name="Description"/>
+        <field name="LCSC Part">C2681556</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="input"/>
+        <pin num="3" name="D+" type="input"/>
+        <pin num="4" name="ID" type="power_in"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="EH" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="mylib" part="WS2812B-V5_C2846931">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">WS2812B-V5_C2846931</field>
+        <field name="Footprint">mylib:LED-SMD_4P-L5.0-W5.0-LS5.4-TL-1</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="LCSC Part">C2846931</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="bidirectional"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="mylib">
+      <uri>/github/workspace/mylib.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="V33" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V" class="Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="LED1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="15" pinfunction="VCC/VDD" pintype="power_in"/>
+      <node ref="USB1" pin="1" pinfunction="VBUS" pintype="power_out"/>
+    </net>
+    <net code="3" name="/Project Architecture/CH552G/D-" class="Default">
+      <node ref="U1" pin="12" pinfunction="P3.6/UDP" pintype="bidirectional"/>
+      <node ref="USB1" pin="2" pinfunction="D-" pintype="input"/>
+    </net>
+    <net code="4" name="/Project Architecture/CH552G/Din" class="Default">
+      <node ref="LED1" pin="4" pinfunction="DIN" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="P3.0/PWM1_/RXD" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="D+" class="Default">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="P3.7/UDM" pintype="bidirectional"/>
+      <node ref="USB1" pin="3" pinfunction="D+" pintype="input"/>
+    </net>
+    <net code="6" name="GND" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="LED1" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED2" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED3" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED4" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED5" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED6" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="GND/VSS" pintype="power_in"/>
+      <node ref="USB1" pin="4" pinfunction="ID" pintype="power_in"/>
+      <node ref="USB1" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="USB1" pin="6" pinfunction="EH" pintype="power_in"/>
+    </net>
+    <net code="7" name="Net-(LED1-DOUT)" class="Default">
+      <node ref="LED1" pin="2" pinfunction="DOUT" pintype="bidirectional"/>
+      <node ref="LED2" pin="4" pinfunction="DIN" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="Net-(LED2-DOUT)" class="Default">
+      <node ref="LED2" pin="2" pinfunction="DOUT" pintype="bidirectional"/>
+      <node ref="LED3" pin="4" pinfunction="DIN" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="Net-(LED3-DOUT)" class="Default">
+      <node ref="LED3" pin="2" pinfunction="DOUT" pintype="bidirectional"/>
+      <node ref="LED4" pin="4" pinfunction="DIN" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="Net-(LED4-DOUT)" class="Default">
+      <node ref="LED4" pin="2" pinfunction="DOUT" pintype="bidirectional"/>
+      <node ref="LED5" pin="4" pinfunction="DIN" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="Net-(LED5-DOUT)" class="Default">
+      <node ref="LED5" pin="2" pinfunction="DOUT" pintype="bidirectional"/>
+      <node ref="LED6" pin="4" pinfunction="DIN" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="Net-(R1-Pad1)" class="Default">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="13" name="m1" class="Default">
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="P3.1/PWM2_/TXD" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="m2" class="Default">
+      <node ref="SW2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="P1.7/SCK/TXD1/TIN5" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="m3" class="Default">
+      <node ref="SW3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="P1.6/MISO/RXD1/TIN4" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="m4" class="Default">
+      <node ref="SW4" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="P1.5/MOSI/PWM1/TIN3/UCC2/AIN2" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="m5" class="Default">
+      <node ref="SW5" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="P1.4/T2_/CAP1_/SCS/TIN2/UCC1/AIN1" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="m6" class="Default">
+      <node ref="SW6" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="P3.2/TXD1_/INT0/VBUS1/AIN3" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="unconnected-(LED6-DOUT-Pad2)" class="Default">
+      <node ref="LED6" pin="2" pinfunction="DOUT" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(U1-P1.1/T2EX/CAP2/TIN1/VBUS2/AIN0-Pad9)" class="Default">
+      <node ref="U1" pin="9" pinfunction="P1.1/T2EX/CAP2/TIN1/VBUS2/AIN0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(U1-P3.3/INT1-Pad10)" class="Default">
+      <node ref="U1" pin="10" pinfunction="P3.3/INT1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(U1-P3.4/PWM2/RXD1_{slash}T0-Pad11)" class="Default">
+      <node ref="U1" pin="11" pinfunction="P3.4/PWM2/RXD1_/T0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(U1-RST/T2EX_{slash}CAP2_-Pad6)" class="Default">
+      <node ref="U1" pin="6" pinfunction="RST/T2EX_/CAP2_" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
