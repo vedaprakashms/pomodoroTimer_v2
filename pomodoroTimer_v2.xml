@@ -10,7 +10,7 @@
     <textvar name="DESIGNER">Vedaprakash M S</textvar>
     <textvar name="FABRICATION_NOTES"/>
     <textvar name="GIT_HASH_PCB">ce41893</textvar>
-    <textvar name="GIT_HASH_SCH">5754637</textvar>
+    <textvar name="GIT_HASH_SCH">f2ed40e</textvar>
     <textvar name="GIT_URL">https://github.com/vedaprakashms/pomodoroTimer_v2</textvar>
     <textvar name="PROJECT_NAME">PoMoDoRo Timer v2</textvar>
     <textvar name="RELEASE_BODY_1.0.0"/>
@@ -63,8 +63,8 @@
     <textvar name="SHEET_NAME_40">......................................</textvar>
     <textvar name="SHEET_NAME_5">WS2812B</textvar>
     <textvar name="SHEET_NAME_6">USB</textvar>
-    <textvar name="SHEET_NAME_7">Power - Sequencing</textvar>
-    <textvar name="SHEET_NAME_8">Revision History</textvar>
+    <textvar name="SHEET_NAME_7">Revision History</textvar>
+    <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
     <textvar name="VARIANT">DRAFT</textvar>
     <sheet number="1" name="/" tstamps="/">
@@ -175,25 +175,7 @@
         <comment number="9" value=""/>
       </title_block>
     </sheet>
-    <sheet number="7" name="/Power - Sequencing/" tstamps="/5fb05893-0da3-4f58-a52b-cb6d6f4cb80b/">
-      <title_block>
-        <title>Power - Sequencing</title>
-        <company>Vishwakarma Freelancer</company>
-        <rev>+ (Unreleased)</rev>
-        <date>Date2</date>
-        <source>Power - Sequencing.kicad_sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
-        <comment number="4" value=""/>
-        <comment number="5" value=""/>
-        <comment number="6" value=""/>
-        <comment number="7" value=""/>
-        <comment number="8" value=""/>
-        <comment number="9" value=""/>
-      </title_block>
-    </sheet>
-    <sheet number="8" name="/Revision History/" tstamps="/6e125bd6-2f99-4e5d-b3ea-4899f4540739/">
+    <sheet number="7" name="/Revision History/" tstamps="/6e125bd6-2f99-4e5d-b3ea-4899f4540739/">
       <title_block>
         <title>Revision History</title>
         <company>Vishwakarma Freelancer</company>
