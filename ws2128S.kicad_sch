@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "2c27e960-5688-42b2-9699-20bbf70fdde2")
+	(uuid "570a3906-4d11-4dbd-ab6b-55867c124087")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:C"
@@ -536,6 +536,29 @@
 			)
 			(embedded_fonts no)
 		)
+	)
+	(text_box "[${#}] ${TITLE}"
+		(exclude_from_sim no)
+		(at 92.456 14.986 0)
+		(size 130.81 12.7)
+		(margins 5.9999 5.9999 5.9999 5.9999)
+		(stroke
+			(width -0.0001)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 8 8)
+				(thickness 1.2)
+				(bold yes)
+				(color 162 22 34 1)
+			)
+		)
+		(uuid "2ab4d1b6-bd25-4ebd-977c-9fb244db5ca9")
 	)
 	(junction
 		(at 128.27 73.66)

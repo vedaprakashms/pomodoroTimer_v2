@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "54814eb1-0453-4fb0-b6fb-979bb573da32")
+	(uuid "70bd5dc0-88e6-4028-ac1e-b719816224d2")
 	(paper "A4")
 	(lib_symbols
 		(symbol "mylib:MICROQTZB5.0"
@@ -412,6 +412,29 @@
 			)
 			(embedded_fonts no)
 		)
+	)
+	(text_box "[${#}] ${TITLE}"
+		(exclude_from_sim no)
+		(at 88.9 20.828 0)
+		(size 130.81 12.7)
+		(margins 5.9999 5.9999 5.9999 5.9999)
+		(stroke
+			(width -0.0001)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 8 8)
+				(thickness 1.2)
+				(bold yes)
+				(color 162 22 34 1)
+			)
+		)
+		(uuid "49624b85-91b1-4c70-8ab9-8b13af567dbe")
 	)
 	(junction
 		(at 158.75 95.25)

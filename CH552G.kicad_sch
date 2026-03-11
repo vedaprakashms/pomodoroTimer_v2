@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "c0669f92-80a6-4297-a16b-cdb8568fe239")
+	(uuid "b4a81ee7-6dfa-43b7-8951-f83990dfa55a")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:TestPoint"
@@ -1345,6 +1345,29 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "[${#}] ${TITLE}"
+		(exclude_from_sim no)
+		(at 82.55 16.002 0)
+		(size 130.81 12.7)
+		(margins 5.9999 5.9999 5.9999 5.9999)
+		(stroke
+			(width -0.0001)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 8 8)
+				(thickness 1.2)
+				(bold yes)
+				(color 162 22 34 1)
+			)
+		)
+		(uuid "ef5d95ab-05fd-4172-90f5-12eba8db0842")
+	)
 	(junction
 		(at 35.56 27.94)
 		(diameter 0)
@@ -1406,6 +1429,16 @@
 			(type default)
 		)
 		(uuid "015d4df5-2b5c-470a-87ad-92944cab6db5")
+	)
+	(wire
+		(pts
+			(xy 68.58 26.67) (xy 68.58 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02ba2e79-76df-4802-a37b-d469afa4227b")
 	)
 	(wire
 		(pts
@@ -1978,7 +2011,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 68.58 30.48 0)
+		(at 68.58 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1987,7 +2020,7 @@
 		(fields_autoplaced yes)
 		(uuid "28609ec1-c194-46e8-956a-efd3a1d07e29")
 		(property "Reference" "#PWR05"
-			(at 68.58 34.29 0)
+			(at 68.58 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1996,7 +2029,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 68.58 25.4 0)
+			(at 68.58 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2004,7 +2037,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 68.58 30.48 0)
+			(at 68.58 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2013,7 +2046,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 30.48 0)
+			(at 68.58 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2022,7 +2055,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 68.58 30.48 0)
+			(at 68.58 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)

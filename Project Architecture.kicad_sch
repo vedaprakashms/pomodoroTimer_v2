@@ -217,7 +217,7 @@
 			(color 255 229 191 1.0000)
 		)
 		(uuid "cd25055e-dee4-45e8-92df-3f47a4673864")
-		(property "Sheetname" "ws2128S"
+		(property "Sheetname" "WS2812B"
 			(at 279.4 75.0646 0)
 			(effects
 				(font
